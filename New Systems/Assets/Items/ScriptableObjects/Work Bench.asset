@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb520fd0a4d88248b1470839e9f047b, type: 3}
+  m_Name: Work Bench
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 1616937298, guid: 190b4c5c4aa2ad343b662ff123bc0e44, type: 3}
+  maxStackAmount: 99
+  toolTip: Can be placed down and used to make better items!
+  smeltedInto: {fileID: 0}
+  timeToSmelt: 0
+  amountOfFuel: 0
+  blockPrefab: {fileID: 4128103107442825604, guid: a40ecadfbe4e43c449cefd83b5dfc6e1, type: 3}
+  placeRange: 10
+  blockSize: 0.5
