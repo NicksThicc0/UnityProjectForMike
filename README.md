@@ -5,5 +5,7 @@
 
  the main one I KNOW uses for loops + foreach loops is the CraftingManager.cs in the checkAllRecipes void. Its probably not the right way to do that AT all but good luck trying to read my code. its been a couple of months since i worked on it so idek whats in it.(probably a bunch of stuff i didnt fix/takeout)
 
+ ur probably gonna wanna take a look at the Local scripts file the most
+
 
 sorry if its unreadable
